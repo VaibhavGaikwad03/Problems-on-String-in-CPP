@@ -7,7 +7,7 @@ Input2 : a man of
 
 Output : String "a man of" exists 2 times
 
-*/
+*/ 
 
 #include <iostream>
 #include <string>
