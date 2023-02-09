@@ -1,6 +1,6 @@
 /*
 
-Write a program which accepts 2 strings from user and concat second string after first string. (Implement strcat() function).
+Write a program which accepts 2 strings from user and concat second string after first string.
 
 Input : "Marvellous Infosystems"
 Input : "Logic Building"
