@@ -25,7 +25,7 @@ string ConcatString(string &dest, const string &src)
 int main(void)
 {
     string str1, str2;
-    string s;
+    string str;
 
     cout << "Enter first string : \n";
     getline(cin, str1);
@@ -33,10 +33,10 @@ int main(void)
     cout << "Enter second string : \n";
     getline(cin, str2);
 
-    s = ConcatString(str1, str2);
+    str = ConcatString(str1, str2);
 
-    cout << s << endl
-         << str1 << endl;
+    cout << endl
+         << "Concated string is : " << str << endl;
 
     return 0;
 }
