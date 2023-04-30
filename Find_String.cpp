@@ -1,4 +1,4 @@
-/*
+/* 
 
 Write a program which accepts two strings from the user and find out how much times second string occurs in a first string.
 
